@@ -1,0 +1,118 @@
+
+body {
+    background-color: #21b6f1;
+  }
+  
+ 
+  
+ 
+  .product-card {
+    transition: transform 0.2s;
+  }
+  
+  .product-card:hover {
+    transform: scale(1.05);
+  }
+
+body {
+    background-color: #f2f8f7;
+  }
+  
+
+  .logo-img {
+    width: 50px;
+    height: 50px;
+    object-fit: cover;
+    border-radius: 50%;
+  }
+  
+
+  .banner {
+    height: 500px;
+    background-image: url('https://source.unsplash.com/1600x500/?drinks');
+    background-size: cover;
+    background-position: center;
+  }
+  
+
+  .product-img {
+    height: 220px;
+    object-fit: cover;
+  }
+
+  .product-card {
+    transition: transform 0.2s ease-in-out;
+  }
+  .product-card:hover {
+    transform: scale(1.05);
+  }
+    
+  .banner {
+    position: relative;
+    width: 100%;       
+    height: 500px;      
+    overflow: hidden;
+  }
+  
+ 
+  .banner img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;  
+    display: block;
+  }
+  
+  
+  .banner .text {
+    position: absolute;
+    top: 50%;
+    left: 10%;
+    transform: translateY(-50%);
+    color: #6a330b;
+    background-color: rgba(255, 255, 255, 0.7);
+    padding: 20px 25px;
+    border-radius: 10px;
+  }
+  
+  .banner .text h2 {
+    font-size: 36px;
+    margin: 0 0 10px 0;
+  }
+  
+  .banner .text p {
+    font-size: 18px;
+    margin: 6px 0;
+  }
+  .about-us h2 {
+    color: #28a745;
+    font-weight: 700;
+    margin-bottom: 40px;
+    position: relative;
+    display: inline-block;
+  }
+  
+  .about-us h2::after {
+    content: "";
+    position: absolute;
+    width: 60%;
+    height: 4px;
+    background-color: #28a745;
+    bottom: -10px;
+    left: 20%;
+    border-radius: 3px;
+  }
+  
+  .about-us p.lead {
+    font-size: 1.1rem;
+    color: #0a0a0a;
+    margin-bottom: 20px;
+  }
+  
+  .about-us p {
+    color: #0a0a0a;
+    line-height: 1.6;
+  }
+.img{
+    width: 400px;
+    height: 250px;
+}  
