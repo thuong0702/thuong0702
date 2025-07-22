@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="dinhdang.css">
+<style>
+        .order-form-container {
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          flex-direction: column;
+          padding: 40px 0;
+        }
+      
+        form {
+          width: 80%;
+          max-width: 600px;            /* giới hạn chiều rộng tối đa */
+          background-color: #fff;
+          padding: 25px 30px;
+          border-radius: 10px;
+          box-shadow: 0 0 15px rgba(0,0,0,0.1);
+          font-size: 15px;
+        }
+      
+        form h2 {
+          text-align: center;
+          color: #2d6a4f;
+        }
+      
+        label {
+          display: block;
+          margin-top: 12px;
+          font-weight: bold;
+        }
+      
+        input[type="text"],
+        input[type="email"],
+        input[type="number"] {
+          width: 100%;
+          padding: 8px;
+          margin-top: 5px;
+          border-radius: 5px;
+          border: 1px solid #ccc;
+          font-size: 14px;
+        }
+      
+        .radio-group, .checkbox-group {
+          margin-top: 15px;
+          font-size: 14px;
+        }
+      
+        button {
+          margin-top: 25px;
+          padding: 10px 25px;
+          background-color: #2d6a4f;
+          color: white;
+          border: none;
+          border-radius: 6px;
+          font-size: 16px;
+          cursor: pointer;
+          display: block;
+          margin-left: auto;
+          margin-right: auto;
+        }
+      
+        button:hover {
+          background-color: #1b4332;
+        }
+      </style>
+      </head>
+      <body>
+      <!-- Thanh menu -->
+      <header class="main-header">
+        <nav class="my-navbar">
+          <div class="logo">
+            <img src="media/Kylóe.png" alt="Logo">
+            
+          </div>
+          <ul>
+          
+            <li><a href="trangchu.html">Trang chủ</a></li>
+            <li><a href="thoitrangnu.html">Thời trang nữ</a></li>
+            <li><a href="thoitrangnam.html">Thời trang nam</a></li>
+            <li><a href="trangphukien.html">Phụ kiện</a></li>
+            <li><a href="tranggioithieu.html">Giới Thiệu</a></li>
+            <li><a href="tranggiohang.html">Đặt hàng</a></li>
+          </ul>
+        </nav>
+      </header>
+      <div class="order-form-container">
+        <form>
+          <h2>Thông tin người nhận</h2>
+      
+          <label>Họ tên:</label>
+          <input type="text" required>
+      
+          <label>Địa chỉ:</label>
+          <input type="text" required>
+      
+          <label>Email:</label>
+          <input type="email" required>
+      
+          <div class="radio-group">
+            <label>Phương thức thanh toán:</label>
+            <input type="radio" name="payment" value="cod" checked> Thanh toán khi nhận hàng<br>
+            <input type="radio" name="payment" value="online"> Thanh toán online
+          </div>
+      
+          <div class="checkbox-group">
+            <label>Dịch vụ thêm:</label>
+            <input type="checkbox" name="goi_qua"> Gói quà<br>
+            <input type="checkbox" name="bao_hanh"> Bảo hành 1 năm
+          </div>
+      
+          <button type="submit">Đặt hàng</button>
+        </form>
+      </div>
+      </body>
+      </html>
+  
