@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.pinimg.com/736x/21/70/17/2170177059835c48d37fc227a84d2172.jpg](https://i.pinimg.com/736x/4a/19/9b/4a199b01ac5bbeef8b5eb0b616a6de4b.jpg)" width="100%" alt="header" />
+  <img src="https://i.pinimg.com/736x/4a/19/9b/4a199b01ac5bbeef8b5eb0b616a6de4b.jpg" width="100%" alt="header" />
 </p>
 
 # <p align="center">✨ グエン・ティ・トゥオン (Nguyen Thi Thuong) ✨</p>
@@ -11,14 +11,14 @@
 
 <p align="center">
   <a href="https://github.com/thuong0702">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fthuong0702&count_bg=%2300C2CB&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false](https://i.pinimg.com/736x/4a/19/9b/4a199b01ac5bbeef8b5eb0b616a6de4b.jpg)" alt="Views">
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fthuong0702&count_bg=%2300C2CB&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false" alt="Views">
   </a>
 </p>
 
 ---
 
 ### 👋 自己紹介 (Giới thiệu bản thân)
-はじめまして、**グエン・ティ・トゥオン**と申します。現在21歳です。
+はじめまして、**グエン・ティ・トゥオン**と申します。現在21歳です.
 技術への情熱を持ち、プロフェッショナルな**ITエンジニア**を目指して日々学習に励んでいます。論理的思考力と高い適応力を活かし、ユーザーにとって価値のあるシステムを構築したいと考えています。
 
 ---
@@ -28,7 +28,7 @@
 **株式会社DEHA SOLUTIONS (インターンシップ - 3ヶ月)**
 * **IT専門職の基礎習得:** 実務に近い形で開発プロジェクトのプロセスを学び、ITエンジニアとしての働き方を理解しました。
 * **ビジネスマナー:** 日本の企業文化における基本的なマナー、報告・連絡・相談（報連相）、効率的な仕事の進め方を習得しました。
-* **チーム開発:** デイリースキャラムなどの活動を通じ, チーム内での円滑なコミュニケーションと協力体制の重要性を深く実感しました。
+* **チーム開発:** デイリースキャラムなどの活動を通じ、チーム内での円滑なコミュニケーションと協力体制の重要性を深く実感しました。
 
 ---
 
