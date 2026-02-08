@@ -1,7 +1,7 @@
 # <p align="center">グエン・ティ・トゥオン (Nguyen Thi Thuong)</p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=00c2cb&height=200&section=header&text=Nguyen%20Thi%20Thuong&fontSize=70" alt="header" />
+  <img src="[https://capsule-render.vercel.app/render?type=waving&color=00c2cb&height=200&section=header&text=Nguyen%20Thi%20Thuong&fontSize=70](https://i.pinimg.com/736x/21/70/17/2170177059835c48d37fc227a84d2172.jpg)" alt="header" />
 </p>
 
 <p align="center">
