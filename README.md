@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://github.com/thuong0702">
-    <img src="[https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fthuong0702&count_bg=%2300C2CB&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false](https://i.pinimg.com/736x/4a/19/9b/4a199b01ac5bbeef8b5eb0b616a6de4b.jpg)" alt="Views">
+    
   </a>
 </p>
 
@@ -53,7 +53,7 @@
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thuong0702&show_icons=true&theme=radical" alt="GitHub Stats" />
+ <img src="https://github-readme-stats.vercel.app/api?username=thuong0702" />
 </p>
 
 ---
